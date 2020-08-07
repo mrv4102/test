@@ -4,5 +4,5 @@ Some new modifications
 Some new changes on branch
 Cause trouble
 New issues
-
+Some new changes
 Some other changes
